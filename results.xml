@@ -1,0 +1,12 @@
+<testsuite name="Mocha Tests" tests="1" failures="1" errors="1" skip="0" timestamp="Fri, 16 Mar 2012 19:50:05 GMT" time="0.001">
+<testcase classname="Array #indexOf()" name="should return -1 when the value is not present" time="NaN" message="Cannot call method 'equal' of undefined"><failure classname="Array #indexOf()" name="should return -1 when the value is not present" time="NaN" message="Cannot call method 'equal' of undefined"><![CDATA[TypeError: Cannot call method 'equal' of undefined
+    at Context.&lt;anonymous&gt; (/Users/eric.clifford/Dev/Exersizes/my-jasmine-project/test/test.js:4:33)
+    at Test.run (/usr/local/lib/node_modules/mocha/lib/runnable.js:156:32)
+    at Runner.runTest (/usr/local/lib/node_modules/mocha/lib/runner.js:272:10)
+    at /usr/local/lib/node_modules/mocha/lib/runner.js:316:12
+    at next (/usr/local/lib/node_modules/mocha/lib/runner.js:199:14)
+    at /usr/local/lib/node_modules/mocha/lib/runner.js:208:7
+    at next (/usr/local/lib/node_modules/mocha/lib/runner.js:157:23)
+    at Array.0 (/usr/local/lib/node_modules/mocha/lib/runner.js:176:5)
+    at EventEmitter._tickCallback (node.js:192:40)]]></failure></testcase>
+</testsuite>

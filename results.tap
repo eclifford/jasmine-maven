@@ -1,0 +1,12 @@
+1..1
+not ok 1 Array indexOf() should return -1 when the value is not present
+  TypeError: Cannot call method 'equal' of undefined
+      at Context.<anonymous> (/Users/eric.clifford/Dev/Exersizes/my-jasmine-project/test/test.js:4:33)
+      at Test.run (/usr/local/lib/node_modules/mocha/lib/runnable.js:156:32)
+      at Runner.runTest (/usr/local/lib/node_modules/mocha/lib/runner.js:272:10)
+      at /usr/local/lib/node_modules/mocha/lib/runner.js:316:12
+      at next (/usr/local/lib/node_modules/mocha/lib/runner.js:199:14)
+      at /usr/local/lib/node_modules/mocha/lib/runner.js:208:7
+      at next (/usr/local/lib/node_modules/mocha/lib/runner.js:157:23)
+      at Array.0 (/usr/local/lib/node_modules/mocha/lib/runner.js:176:5)
+      at EventEmitter._tickCallback (node.js:192:40)
