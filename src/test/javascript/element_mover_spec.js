@@ -30,7 +30,7 @@ describe('the ElementMover object',function(){
 
 	describe('eric is cool', function() {
 		it('should be true', function() {
-			return true;
+			return false;
 		});
 	});
 	
