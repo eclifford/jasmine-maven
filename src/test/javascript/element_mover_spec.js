@@ -27,6 +27,12 @@ describe('the ElementMover object',function(){
 			expect(thrown).toBe('Remember to use new on constructors!');
 		});
 	});
+
+	describe('eric is cool', function() {
+		it('should be true', function() {
+			return true;
+		});
+	});
 	
 	describe('moving around two divs',function() {
 		var div1,div2;
