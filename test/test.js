@@ -6,3 +6,10 @@ describe('Array', function(){
     })
   })
 })
+
+describe('is eric awesome', function() {
+	it('should equal yes', function() {
+		var eric = true;
+		eric.should.equal(true);
+	})
+})
